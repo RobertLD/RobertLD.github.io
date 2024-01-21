@@ -3,7 +3,7 @@ description: A collection of personal thoughts and ideas
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
-
+theme: minima
 minima:
   skin: dark
 
