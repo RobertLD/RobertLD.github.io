@@ -13,7 +13,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
   
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: minima
 
 title: RobertLD's Ramblings
 description: A collection of personal thoughts and ideas
