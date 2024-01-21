@@ -14,15 +14,3 @@ minima:
 #   - _pages/frontpage.md
 #   - _pages/about.md
 #   - _pages/archive.md
-
-include:
-    - _pages
-
-exclude: 
-    - .gitignore
-    - docker-compose.yml
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-
