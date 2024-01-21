@@ -1,8 +1,4 @@
----
 
-list_title: Posts
----
+### Ramblings
 
-
-### RobertLD's worthless ramblings
-This is the collection of my thoughts, and things that my interest has been piqued in recently
+This is a collection of things that have at one point piqued my interest.
