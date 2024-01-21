@@ -1,9 +1,11 @@
 title: RobertLD's Ramblings
 description: A collection of personal thoughts and ideas
-
-# Minima: show excerpts in the frontpage
 show_excerpts: true
-theme: minima
+
+plugins:
+  - jekyll-remote-theme 
+remote_theme: jekyll/minima
+
 minima:
   skin: dark
 
