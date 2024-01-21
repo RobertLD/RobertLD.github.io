@@ -1,5 +1,4 @@
 ---
-permalink: /
 layout: home
 title: Hello, World!
 list_title: Posts
