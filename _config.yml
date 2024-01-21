@@ -5,7 +5,6 @@ description: A collection of personal thoughts and ideas
 show_excerpts: true
 
 minima:
-  date_format: "%Y-%m-%d"
   skin: dark
 
 
