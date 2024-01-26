@@ -1,12 +1,11 @@
-
-# Pull Request Checklist
+A simple checklist 
 
 
 ### Slowing down before the finish line
 Something I personally try to remember is that, nothing is ever quite as urgent as it's made out to be. Regardless of the circumstances, if the code you wrote is bad it only reflects poorly on you. Which is why I wrote this little checklist for myself to go through before merging a pull-request.
 
 
-## PR Checklist
+### PR Checklist
 
 - [ ] Did you run it end-to-end? (DYaRI)
 
