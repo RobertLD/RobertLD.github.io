@@ -1,4 +1,4 @@
-A simple checklist 
+A simple checklist to remind me to slow down and make sure the code I'm producing is quality code.
 
 
 ### Slowing down before the finish line
