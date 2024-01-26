@@ -6,4 +6,5 @@ I found this post from [Yale](https://cpsc.yale.edu/epigrams-programming) recent
 
 ## Epigrams in Programming
 
-1. 
+1. Once code has reached production, it's lifetime exceeds your own.
+2. Don't pose an idea, unless willing to implement it
