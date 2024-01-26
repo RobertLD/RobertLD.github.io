@@ -7,4 +7,6 @@ I found this post from [Yale](https://cpsc.yale.edu/epigrams-programming) recent
 ## Epigrams in Programming
 
 1. Once code has reached production, it's lifetime exceeds your own.
-2. Don't pose an idea, unless willing to implement it
+2. Don't pose an idea, unless willing to implement it.
+3. Quality Assurance's only job should be to watch Youtube on the clock.
+4. "That should be trivial" is a cursed statement.
