@@ -10,3 +10,6 @@ I found this post from [Yale](https://cpsc.yale.edu/epigrams-programming) recent
 2. Don't pose an idea, unless willing to implement it.
 3. Quality Assurance's only job should be to watch Youtube on the clock.
 4. "That should be trivial" is a cursed statement.
+5. If we could separate engineers from their love of complexity, we'd get better systems.
+6. When your only tool is Java, the whole world looks like an object
+7. When your only tools is Lisp, the whole world looks like a function
