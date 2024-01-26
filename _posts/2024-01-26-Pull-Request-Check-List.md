@@ -1,0 +1,1 @@
+Something I personally try to remember is that, nothing is ever quite as urgent as it's made out to be. Regardless of the circumstances if the code you wrote is bad it only reflects poorl
