@@ -1,2 +1,7 @@
+A collection of memorable epigrams I've heard
 
-I found this post from [Yale](https://cpsc.yale.edu/epigrams-programming) recently going over
+## Inspiration
+I found this post from [Yale](https://cpsc.yale.edu/epigrams-programming) recently, that lists Computer Science related epigrams and I thought it would be interesting to compile a list of of similar short phrases that I found amusing.
+
+
+## Epigrams in Programming
