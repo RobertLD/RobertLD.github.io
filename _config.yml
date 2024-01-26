@@ -1,5 +1,11 @@
 title: Robert DeRienzo's Blog
+
 description: This is a collection of things that have at one point piqued my interest.
+
+author:
+  name: Robert DeRienzo
+  email: rlderienzo@gmail.com
+  
 show_excerpts: true
 
 plugins:
