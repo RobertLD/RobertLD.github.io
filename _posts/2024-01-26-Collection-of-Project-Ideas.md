@@ -33,6 +33,7 @@ These are projects that are useful to me personally or offer some simple functio
 4. PQL and SQL wrapper around parquet files with a GUI interface similar to datagrip.
 5. Bitbucket plugin in clojure to add git-semver to PullRequests
 6. VSCode plugin to add Automatic SQL formatting for strings
+7. CLI application to read/parse markdown data and fail a build on grammar mistakes, with configurable proof-reading capabilities. Would be used as a github action for github.io pages/blogs.
 
 ### Interesting
 1. Workflow engine that supports job dependencies, retries and priority
