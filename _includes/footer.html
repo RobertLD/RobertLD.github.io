@@ -18,23 +18,22 @@
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
-          {% if site.author.email -%}
+          <!-- {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
+          {%- endif %} -->
         </ul>
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-      <div class="footer-col">
-        <h2> Recently Updated Posts</h2>
+        <h3> Recently Updated </h3>
         {% assign posts = site.posts | sort: 'last_updated' | reverse  %}
-        {% for post in posts limit:5  %}
+        {% for post in posts limit:3  %}
           <p><a href="{{ post.url }}">{{ post.title }}</a>
         {% endfor %}
       </div>
-
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
     </div>
 
     <div class="social-links">
