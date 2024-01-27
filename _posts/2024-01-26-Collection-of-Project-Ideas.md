@@ -10,7 +10,21 @@ I often find myself short on project ideas to explore in my free time. I'm makin
 A collection of all the project ideas I've thought would be interesting to implement. I've tried to organize them as best as possible below.
 
 ## Potentially Marketable Projects
-Projects that I think could have some potential to make it to market
+Out of all the ideas, I think these projects have the most potential to make it to market and become successful products or services.
+
+
+## Personal Projects
+These are projects that are useful to me personally or offer some simple functionality that I desire on a day to day basis.
+
+
+## Exercises in Learning 
+Projects designed to expand personal knowledge on a topic or a series of topics.
+
+
+
+
+
+
 ### Large Theory Heavy Projects
 1. Anything from the [Build your own X](https://github.com/codecrafters-io/build-your-own-x) list
 	1. Build your own Database
