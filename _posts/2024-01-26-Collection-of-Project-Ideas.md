@@ -1,39 +1,69 @@
 ---
 tags: software 
+format: list
 ---
 
 
 I often find myself short on project ideas to explore in my free time. I'm making an effort here to keep track of project ideas I've had or found and are interested in pursuing.
 
-## Project Ideas
+# Project Ideas
+Being a person with restless ADHD, I always need a coding project to work on. This can be challenging when my enthusiasm is short-lived and the web lacks project suggestions for those that aren't beginners. I created this list to compile my project ideas as they occur to me. These are things that I would enjoy implementing, arranged as well as I can.
 
+
+## Potentially Marketable Projects
+---
+Out of all the ideas, I think these projects have the most potential to make it to market and become successful products or services.
+
+### Consumer Applications (Apps, etc.)
+1. Build a mobile app that reminds users if they've taken their pills today or not
+2. Tenet management system for landlords
+
+### Machine Learning
+1. LLM trained specifically on the AST representation of a specific programming language.
+
+
+## Personal Projects
+---
+These are projects that are useful to me personally or offer some simple functionality that I desire on a day to day basis. Alternatively, it could just me something I'm interested in
+
+### Directly useful for me
+1. Remote SQL driver server. Spin up the simple web-server and let it handle the querying and sending the results back. For databases without HTTP support
+2. Website that is a decision matrix for which programming language to learn next based on user provided information. Tech: Golang/ HTMX
+3.  Personal Finance simulator and decision maker
+4. PQL and SQL wrapper around parquet files with a GUI interface similar to datagrip.
+5. Bitbucket plugin in clojure to add git-semver to PullRequests
+6. VSCode plugin to add Automatic SQL formatting for strings
+
+### Interesting
+1. Workflow engine that supports job dependencies, retries and priority
 
 ### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
+2. OpenAPI client generator. Parse a swagger document and generate a client for interacting with that specific API.
+3.  Parquet/CSV file combiner and splitter cli tool
+
+### Simulations
+1. Evolution simulation game with simple plants and animals (Golang?)
+2. Market Trading Simulator using Agents with simple Neural Networks existing as Coroutines. They interact real-time with a global market data-structure
+3. Agents that use emails to interact with the world (game over SMTP)
 
 
-### Fu
+## Exercises in Learning
+---
+Projects whose purpose is to expand my knowledge on a particular topic or series of topics. These projects could fit into other categories as well, but for my purposes they are strictly educational.
+
+### Functional Programming
 1. Using elixir/F# to build a simple website with as little dependency on JavaScript as possible
-2. LLM trained specifically on the AST representation of a specific programming language.
-3. Anything from the [Build your own X](https://github.com/codecrafters-io/build-your-own-x) list
-	1. Build your own Database
-	2. Create a programming language
-	3. Customized text editor with LSP support
-4. Build a mobile app that reminds users if they've taken their pills today or not
-5. Website that is a decision matrix for which programming language to learn next based on user provided information. Tech: Golang/ HTMX
-6. PQL and SQL wrapper around parquet files with a GUI interface similar to datagrip.
-7. NoSQL database designed specifically around one type of data. Could be vectors, could be strings, could be... something else?
-8. OpenAPI client generator. Parse a swagger document and generate a client for interacting with that specific API.
-9. Personal Finance simulator and decision maker
-10. Parquet/CSV file combiner and splitter cli tool
-11. Remote SQL driver server. Spin up the simple web-server and let it handle the querying and sending the results back. For databases without HTTP support
-12. Evolution simulation game with simple plants and animals (Golang?)
-13. Anomaly Detection ML model build on top of Loki logs
-14. Market Trading Simulator using Agents with simple Neural Networks existing as Coroutines. They interact real-time with a global market data-structure
-15. Garbage Collector for a non-garbage collected language
-16. Tenet management system for landlords
-17. Workflow engine that supports job dependencies, retries and priority
-18. Bitbucket plugin in clojure to add git-semver to PullRequests
-19. VSCode plugin to add Automatic SQL formatting for strings
-20. Agents that use emails to interact with the world (game over SMTP)
-21. Training a model on a dental X-ray that can detect what type of implant someone has in
+
+
+### Machine Learning
+1. LLM trained specifically on the AST representation of a specific programming language.
+2. Anomaly Detection ML model build on top of Loki logs
+
+
+## Projects suggested to me
+---
+These are a collection of projects from peers of mine who have suggested working on a project.
+
+1.  > Training a model on a dental X-ray that can detect what type of implant someone has in
+   \- Louis DeRienzo, 2024
