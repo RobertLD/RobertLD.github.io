@@ -4,7 +4,7 @@ format: list
 ---
 
 
-I often find myself short on project ideas to explore in my free time. I'm making an effort here to keep track of project ideas I've had or found online and am considering pursuing.
+I regularly find myself short on project ideas to explore in my free time. I'm making an effort here to keep track of project ideas I've had or discovered online and am considering pursuing.
 
 # Project Ideas
 Being a person with restless ADHD, I always need a coding project to work on. This can be challenging when my enthusiasm is short-lived and the web lacks project suggestions for those that aren't beginners. I created this list to compile my project ideas as they occur to me. These are things that I would enjoy implementing, arranged as well as I can.
