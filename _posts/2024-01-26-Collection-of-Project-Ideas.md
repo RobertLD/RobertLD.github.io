@@ -1,15 +1,17 @@
 ---
 tags: software 
+format: list
 ---
 
 
 I often find myself short on project ideas to explore in my free time. I'm making an effort here to keep track of project ideas I've had or found and are interested in pursuing.
 
 # Project Ideas
+Being a person with restless ADHD, I always need a coding project to work on. This can be challenging when my enthusiasm is short-lived and the web lacks project suggestions for those that aren't beginners. I created this list to compile my project ideas as they occur to me. These are things that I would enjoy implementing, arranged as well as I can.
 
-A collection of all the project ideas I've thought would be interesting to implement. I've tried to organize them as best as possible below.
 
 ## Potentially Marketable Projects
+---
 Out of all the ideas, I think these projects have the most potential to make it to market and become successful products or services.
 
 ### Consumer Applications (Apps, etc.)
@@ -21,6 +23,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 
 
 ## Personal Projects
+---
 These are projects that are useful to me personally or offer some simple functionality that I desire on a day to day basis. Alternatively, it could just me something I'm interested in
 
 ### Directly useful for me
@@ -46,6 +49,7 @@ These are projects that are useful to me personally or offer some simple functio
 
 
 ## Exercises in Learning
+---
 Projects whose purpose is to expand my knowledge on a particular topic or series of topics. These projects could fit into other categories as well, but for my purposes they are strictly educational.
 
 ### Functional Programming
