@@ -25,3 +25,9 @@ I often find myself short on project ideas to explore in my free time. I'm makin
 13. Evolution simulation game with simple plants and animals (Golang?)
 14. Anomaly Detection ML model build on top of Loki logs
 15. Market Trading Simulator using Agents with simple Neural Networks existing as Coroutines. They interact real-time with a global market data-structure
+16. Garbage Collector for a non-garbage collected language
+17. Tenet management system for landlords
+18. Workflow engine that supports job dependencies, retries and priority
+19. Bitbucket plugin in clojure to add git-semver to PullRequests
+20. VSCode plugin to add Automatic SQL formatting for strings
+21. Agents that use emails to interact with the world (game over SMTP)
