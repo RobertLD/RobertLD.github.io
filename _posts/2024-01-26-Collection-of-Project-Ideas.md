@@ -1,5 +1,5 @@
 ---
-tags: software 
+tags: software
 format: list
 ---
 
@@ -63,7 +63,7 @@ Projects whose purpose is to expand my knowledge on a particular topic or series
 
 ## Projects suggested to me
 ---
-These are a collection of projects from peers of mine who have suggested working on a project.
+These are a collection of projects from peers of mine who have suggested an idea to add to this list.
 
 1.  > Training a model on a dental X-ray that can detect what type of implant someone has in
    \- Louis DeRienzo, 2024
