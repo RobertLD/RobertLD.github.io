@@ -5,19 +5,24 @@ description: This is a collection of things that have at one point piqued my int
 author:
   name: Robert DeRienzo
   email: rlderienzo@gmail.com
-  
+
 show_excerpts: true
 
 plugins:
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  
+
 remote_theme: jekyll/minima
 
 minima:
   skin: dark
 
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/RobertLD" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/robert-derienzo-179ba9196/" }
 
 # # Minima: custom header links
 # header_pages:
