@@ -14,6 +14,10 @@ Out of all the ideas, I think these projects have the most potential to make it 
 
 ### Consumer Applications (Apps, etc.)
 1. Build a mobile app that reminds users if they've taken their pills today or not
+2. Tenet management system for landlords
+
+### Machine Learning
+1. LLM trained specifically on the AST representation of a specific programming language.
 
 
 ## Personal Projects
@@ -24,45 +28,37 @@ These are projects that are useful to me personally or offer some simple functio
 2. Website that is a decision matrix for which programming language to learn next based on user provided information. Tech: Golang/ HTMX
 3.  Personal Finance simulator and decision maker
 4. PQL and SQL wrapper around parquet files with a GUI interface similar to datagrip.
+5. Bitbucket plugin in clojure to add git-semver to PullRequests
+6. VSCode plugin to add Automatic SQL formatting for strings
 
-#### CLI Applications
+### Interesting
+1. Workflow engine that supports job dependencies, retries and priority
+
+### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
 2. OpenAPI client generator. Parse a swagger document and generate a client for interacting with that specific API.
 3.  Parquet/CSV file combiner and splitter cli tool
 
+### Simulations
+1. Evolution simulation game with simple plants and animals (Golang?)
+2. Market Trading Simulator using Agents with simple Neural Networks existing as Coroutines. They interact real-time with a global market data-structure
+3. Agents that use emails to interact with the world (game over SMTP)
+
 
 ## Exercises in Learning
-
-
+Projects whose purpose is to expand my knowledge on a particular topic or series of topics. These projects could fit into other categories as well, but for my purposes they are strictly educational.
 
 ### Functional Programming
 1. Using elixir/F# to build a simple website with as little dependency on JavaScript as possible
-
-#### Simulations
-1. Evolution simulation game with simple plants and animals (Golang?)
-2. Market Trading Simulator using Agents with simple Neural Networks existing as Coroutines. They interact real-time with a global market data-structure
 
 
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
 2. Anomaly Detection ML model build on top of Loki logs
-3. 
 
 
+## Projects suggested to me
+These are a collection of projects from peers of mine who have suggested working on a project.
 
-4. 
-5. 
-6. 
-6.
-7.
-8. 
-9. 
-10. 
-11. 
-12. 
-13. Tenet management system for landlords
-14. Workflow engine that supports job dependencies, retries and priority
-15. Bitbucket plugin in clojure to add git-semver to PullRequests
-16. VSCode plugin to add Automatic SQL formatting for strings
-17. Agents that use emails to interact with the world (game over SMTP)
-18. Training a model on a dental X-ray that can detect what type of implant someone has in
+1.  > Training a model on a dental X-ray that can detect what type of implant someone has in
+   \- Louis DeRienzo, 2024
