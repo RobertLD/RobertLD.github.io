@@ -42,6 +42,13 @@ The more I use obsidian, the more I've extended it's feature set to fit exactly 
 
 ### Obsidian at work
 ---
+1. Obsidian integrates directly with[ Jira tickets ](https://github.com/marc0l92/obsidian-jira-issue)(although the plugin is a bit buggy). I can track my work and progress on a ticket directly from Obsidian. When tasks are complicated having a searchable note platform that I can use to find all information related to that ticket is incredibly useful
+2. Obsidian also has a [plugin](https://github.com/markdown-confluence/obsidian-integration) for publishing markdown documents directly to Confluence, which is useful for sharing my personal notes to my company's Internal Knowledge store
 
+### Personalizing Obsidian to work for me
+---
+As with any tool, the first step is customizing the application to work for you. The first time I downloaded obsidian I made the mistake of downloading too many plugins, and got lost by the wealth of integrated features. 
+
+Following those attempts I took a more pragmatic approach to customizing my Obsidian client. That is, only downloading plugins if I need the functionality. Novel idea right?
 
    
