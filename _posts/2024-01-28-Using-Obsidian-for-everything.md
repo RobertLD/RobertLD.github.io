@@ -32,10 +32,10 @@ The more I use obsidian, the more I've extended it's feature set to fit exactly 
 ### In my personal setup
 ---
 1. Daily note system with [templater](https://github.com/SilentVoid13/Templater)  creates a daily note following a defined template. This feature exists out-of-the-box in Obsidian but templater adds some functionality on top of Obsidian's base templates
-[tasks|300](attached/tasks.png)
+![tasks|300](attached/tasks.png)
 2.  [Obsidian](https://obsidian.md/) also manages my "blog" posts for me. I simply write my notes in markdown (like this one), and add that note to the blog folder of my Vault. I use the [Obsidian git ](https://github.com/denolehov/obsidian-git )plugin to sync my vault as a repository, and then [GitHub pages](https://pages.github.com/) to publish the blog.
 3. [Omnivore](https://omnivore.app/home) is an application I've discovered recently for saving articles and text. You can use it to store things you'd like to remember from the web or to save articles you'd like to read at a later time. The best part is it integrates directly with Obsidian. 
-[omnivore|300](attached/omnivore.png)
+![omnivore|300](attached/omnivore.png)
 1. The graph viewer in Obsidian is something I rarely use but when I do, I find it very useful. Especially for reminding myself of association between different items. This is all managed through my use of tags and backlinks between notes
 ![graph|300](attached/graph.png)
 5. Long Term notes are where obsidian shines for me. Everything I save, type or otherwise put in Obsidian is preserved in a format that is easily searchable. If I can't remember something I can search using related words and find my notes on that topic. Most platforms offer this, so this isn't unique to Obsidian
