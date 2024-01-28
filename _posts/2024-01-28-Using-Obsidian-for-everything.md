@@ -35,7 +35,7 @@ The more I use obsidian, the more I've extended it's feature set to fit exactly 
    ![[/_posts/attached/Pasted image 20240128094808.png |300]]
 2.  [Obsidian](https://obsidian.md/) also manages my "blog" posts for me. I simply write my notes in markdown (like this one), and add that note to the blog folder of my Vault. I use the [Obsidian git ](https://github.com/denolehov/obsidian-git )plugin to sync my vault as a repository, and then [GitHub pages](https://pages.github.com/) to publish the blog.
 3. [Omnivore](https://omnivore.app/home) is an application I've discovered recently for saving articles and text. You can use it to store things you'd like to remember from the web or to save articles you'd like to read at a later time. The best part is it integrates directly with Obsidian. 
-   ![[/_posts/attached/Pasted image 20240128095330.png|300]]
+   ![/_posts/attached/Pasted image 20240128095330.png|300]
 4. The graph viewer in Obsidian is something I rarely use but when I do, I find it very useful. Especially for reminding myself of association between different items. This is all managed through my use of tags and backlinks between notes
 ![[/_posts/attached/Pasted image 20240128095538.png|300]]
 5. Long Term notes are where obsidian shines for me. Everything I save, type or otherwise put in Obsidian is preserved in a format that is easily searchable. If I can't remember something I can search using related words and find my notes on that topic. Most platforms offer this, so this isn't unique to Obsidian
