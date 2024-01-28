@@ -1,7 +1,8 @@
 ---
-tags: [software]
+tags: software
 format: list
 ---
+
 
 I regularly find myself short on project ideas to explore in my free time. I'm making an effort here to keep track of project ideas I've had or discovered online and am considering pursuing.
 
