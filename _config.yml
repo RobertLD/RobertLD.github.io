@@ -24,6 +24,12 @@ minima:
 
 google_analytics: G-BHSYV5JQGN
 
+defaults:
+  - scope:
+      path: "_posts/attached"
+    values:
+      image: true
+
 
 # # Minima: custom header links
 # header_pages:
