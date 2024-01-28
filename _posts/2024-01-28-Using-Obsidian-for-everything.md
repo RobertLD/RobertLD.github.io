@@ -88,24 +88,24 @@ As for plugins
 All of the applications, and plugins I've mentioned are free to use and Open-source. Some of the authors accept donations and I've attached these links below if you find any of the above to be particularly useful.
 
 
-- [Git for Obsidian](https://github.com/denolehov/obsidian-git)
-	  Let's you automatically back-up your vault to a git repository. This is by far the most useful plugin for me
+- [Obsidian](https://obsidian.md/pricing)
+	  Premium options support the developers
+
+- [Git for Obsidian](https://ko-fi.com/F1F195IQ5)
+	  Developer takes donations
   
   
-- [Templater](https://github.com/SilentVoid13/Templater)
-	  Create complex templates for different types of notes. Supports variables and other features
+- [Templater](https://github.com/sponsors/silentvoid13)
+	  Developer takes donations
   
   
-- [Omnivore](https://omnivore.app/home)
-	  Save any online text for local consumption or for later reference. 
+- [Omnivore](https://opencollective.com/omnivore)
+	 Developer takes donations
 
 
-- [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
-	  Execute SQL(ish?) statements against your notes. This one is awesome, and I use it frequently for listing notes edited on a certain day or containing a certain tag.
+- [Dataview](https://www.paypal.com/donate?business=Y9SKV24R5A8BQ&item_name=Open+source+software+development&currency_code=USD)
+	  Developer takes donations
 
 
-- [Task Progress Bar](https://github.com/Quorafind/Obsidian-Task-Progress-Bar)
-	  QoL plugin that adds a little progress bar on top of task lists. I think it just looks pretty.
-
-
-
+- [Task Progress Bar](https://www.buymeacoffee.com/boninall)
+	  Developer takes donations
