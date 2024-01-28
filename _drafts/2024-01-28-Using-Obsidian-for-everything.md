@@ -7,7 +7,7 @@ tags:
   - software
   - productivity
   - obsidian
-published: false
+published: true
 ---
 
 Obsidian has been a huge productivity boost in my workflow.
@@ -45,7 +45,7 @@ The more I use obsidian, the more I've extended it's feature set to fit exactly 
 1. Obsidian integrates directly with[ Jira tickets ](https://github.com/marc0l92/obsidian-jira-issue)(although the plugin is a bit buggy). I can track my work and progress on a ticket directly from Obsidian. When tasks are complicated having a searchable note platform that I can use to find all information related to that ticket is incredibly useful
 2. Obsidian also has a [plugin](https://github.com/markdown-confluence/obsidian-integration) for publishing markdown documents directly to Confluence, which is useful for sharing my personal notes to my company's Internal Knowledge store
 
-### Personalizing Obsidian to work for me
+## Personalizing Obsidian to work for me
 ---
 As with any tool, the first step is customizing the application to work for you. The first time I downloaded obsidian I made the mistake of downloading too many plugins, and got lost by the wealth of integrated features. 
 
@@ -62,13 +62,50 @@ I've also configured the look and style to be easier on my eyes and support the 
 
 As for plugins
 
-- Git for Obsidian
-  Let's you automatically back-up your vault to a git repository. This is by far the most useful plugin for me
-- Templater
-  Create complex templates for different types of notes. Supports variables and other features
-- Omnivore
-  Save any online text for local consumption or for later reference. 
-- Dataview
-- 
-- Task Progress Bar
-   
+- [Git for Obsidian](https://github.com/denolehov/obsidian-git)
+	  Let's you automatically back-up your vault to a git repository. This is by far the most useful plugin for me
+  
+  
+- [Templater](https://github.com/SilentVoid13/Templater)
+	  Create complex templates for different types of notes. Supports variables and other features
+  
+  
+- [Omnivore](https://omnivore.app/home)
+	  Save any online text for local consumption or for later reference. 
+
+
+- [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+	  Execute SQL(ish?) statements against your notes. This one is awesome, and I use it frequently for listing notes edited on a certain day or containing a certain tag.
+
+
+- [Task Progress Bar](https://github.com/Quorafind/Obsidian-Task-Progress-Bar)
+	  QoL plugin that adds a little progress bar on top of task lists. I think it just looks pretty.
+
+
+##  Saying thank you
+---
+
+All of the applications, and plugins I've mentioned are free to use and Open-source. Some of the authors accept donations and I've attached these links below if you find any of the above to be particularly useful.
+
+
+- [Git for Obsidian](https://github.com/denolehov/obsidian-git)
+	  Let's you automatically back-up your vault to a git repository. This is by far the most useful plugin for me
+  
+  
+- [Templater](https://github.com/SilentVoid13/Templater)
+	  Create complex templates for different types of notes. Supports variables and other features
+  
+  
+- [Omnivore](https://omnivore.app/home)
+	  Save any online text for local consumption or for later reference. 
+
+
+- [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+	  Execute SQL(ish?) statements against your notes. This one is awesome, and I use it frequently for listing notes edited on a certain day or containing a certain tag.
+
+
+- [Task Progress Bar](https://github.com/Quorafind/Obsidian-Task-Progress-Bar)
+	  QoL plugin that adds a little progress bar on top of task lists. I think it just looks pretty.
+
+
+
