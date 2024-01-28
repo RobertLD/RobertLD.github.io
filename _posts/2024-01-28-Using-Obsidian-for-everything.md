@@ -37,7 +37,7 @@ The more I use obsidian, the more I've extended it's feature set to fit exactly 
 3. [Omnivore](https://omnivore.app/home) is an application I've discovered recently for saving articles and text. You can use it to store things you'd like to remember from the web or to save articles you'd like to read at a later time. The best part is it integrates directly with Obsidian. 
 [omnivore|300](attached/omnivore.png)
 1. The graph viewer in Obsidian is something I rarely use but when I do, I find it very useful. Especially for reminding myself of association between different items. This is all managed through my use of tags and backlinks between notes
-[graph|300](attached/graph.png)
+![graph|300](attached/graph.png)
 5. Long Term notes are where obsidian shines for me. Everything I save, type or otherwise put in Obsidian is preserved in a format that is easily searchable. If I can't remember something I can search using related words and find my notes on that topic. Most platforms offer this, so this isn't unique to Obsidian
 
 ### Obsidian at work
