@@ -51,4 +51,24 @@ As with any tool, the first step is customizing the application to work for you.
 
 Following those attempts I took a more pragmatic approach to customizing my Obsidian client. That is, only downloading plugins if I need the functionality. Novel idea right?
 
+I've also configured the look and style to be easier on my eyes and support the type of markdown editing I do more easily. In no particular order, here are the customizations I use with Obsidian
+
+- Vim keybindings so I can edit markdown using vim motions
+- Cappucine theme for a beautiful easy on the eyes style
+- Jetbrains Mono font for code blocks
+- Atkinson Hyperlegible font for the easiest reading experience I've ever had
+-  Source-mode as my default editing environment, mimicking the behavior of Org
+
+
+As for plugins
+
+- Git for Obsidian
+  Let's you automatically back-up your vault to a git repository. This is by far the most useful plugin for me
+- Templater
+  Create complex templates for different types of notes. Supports variables and other features
+- Omnivore
+  Save any online text for local consumption or for later reference. 
+- Dataview
+- 
+- Task Progress Bar
    
