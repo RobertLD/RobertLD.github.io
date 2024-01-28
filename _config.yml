@@ -6,9 +6,6 @@ author:
   name: Robert DeRienzo
   email: rlderienzo@gmail.com
 
-url: RobertLD.github.io
-baseurl: /RobertLD.github.io/
-
 show_excerpts: true
 
 plugins:
