@@ -31,6 +31,8 @@ defaults:
       image: true
 
 include: "/attached"
+load_paths:
+    - _sass
 
 
 # # Minima: custom header links
