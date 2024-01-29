@@ -15,9 +15,10 @@ I currently own an android device, that is not *rooted* so installing git on the
 
 Once your Obsidian Vault is on your phone there is only one additional step
 
-[!important]
-Your remote in Git must be set to use HTTPS and not SSH
 
+<div class="callout callout-info" markdown="span">
+Your remote in Git must be set to use HTTPS and not SSH
+</div>
 
 ### Step 2: Configuring Obsidian-Git on your phone
 Given that we can't install git on the mobile device and likely can't configure SSH keys we'll have to rely on two things
