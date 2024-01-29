@@ -26,9 +26,11 @@ google_analytics: G-BHSYV5JQGN
 
 defaults:
   - scope:
-      path: "/_posts/attached"
+      path: "/attached"
     values:
       image: true
+
+include: "/attached"
 
 
 # # Minima: custom header links
