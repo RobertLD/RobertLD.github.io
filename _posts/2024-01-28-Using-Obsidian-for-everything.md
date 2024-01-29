@@ -13,12 +13,10 @@ published: true
 Obsidian has been a huge productivity boost in my workflow.
 
 
-# Using Obsidian for Everything
----
 
 I've used [obsidian](https://obsidian.md/) for some time now, perhaps two or so years. I've switched between multiple applications to accommodate my note taking needs during this time, but nothing even came close to the flexibility of Obsidian.
 
-Okay I lied a bit. Org-mode is fantastic, it just lacks some of the features I want out of the box and my ELisp skills are non existent. 
+Okay I lied a bit. Org-mode is fantastic, it just lacks some of the features I want out of the box and my ELisp skills are non existent.
 
 Calling Obsidian a note-taking app while true, doesn't capture the scope of things I truly use it for. The app is incredibly flexible. A lot of folks use it as a second brain of sorts, where plain text supplements their memory, others use it for notes,  [Tris@NoBoilerplate](https://www.youtube.com/watch?v=5gZdTZa8bOw)  uses it for making his videos with the [Advanced Slides] (https://github.com/MSzturc/obsidian-advanced-slides) plugin.
 
@@ -27,14 +25,14 @@ I've setup obsidian to do a few things for me and each time I need additional fu
 ## What I use Obsidian for
 ---
 
-The more I use obsidian, the more I've extended it's feature set to fit exactly what I need. I have two primary [Obsidian](https://obsidian.md/) workspaces, one for personal use and the other for managing work related tasks. 
+The more I use obsidian, the more I've extended it's feature set to fit exactly what I need. I have two primary [Obsidian](https://obsidian.md/) workspaces, one for personal use and the other for managing work related tasks.
 
 ### In my personal setup
 ---
 1. Daily note system with [templater](https://github.com/SilentVoid13/Templater)  creates a daily note following a defined template. This feature exists out-of-the-box in Obsidian but templater adds some functionality on top of Obsidian's base templates
 ![tasks|200](/attached/tasks.png)
 3.  [Obsidian](https://obsidian.md/) also manages my "blog" posts for me. I simply write my notes in markdown (like this one), and add that note to the blog folder of my Vault. I use the [Obsidian git ](https://github.com/denolehov/obsidian-git )plugin to sync my vault as a repository, and then [GitHub pages](https://pages.github.com/) to publish the blog.
-4. [Omnivore](https://omnivore.app/home) is an application I've discovered recently for saving articles and text. You can use it to store things you'd like to remember from the web or to save articles you'd like to read at a later time. The best part is it integrates directly with Obsidian. 
+4. [Omnivore](https://omnivore.app/home) is an application I've discovered recently for saving articles and text. You can use it to store things you'd like to remember from the web or to save articles you'd like to read at a later time. The best part is it integrates directly with Obsidian.
 ![omnivore|200](/attached/omnivore.png)
 6. The graph viewer in Obsidian is something I rarely use but when I do, I find it very useful. Especially for reminding myself of association between different items. This is all managed through my use of tags and backlinks between notes
 ![graph|200](/attached/graph.png)
@@ -47,7 +45,7 @@ The more I use obsidian, the more I've extended it's feature set to fit exactly 
 
 ## Personalizing Obsidian to work for me
 ---
-As with any tool, the first step is customizing the application to work for you. The first time I downloaded obsidian I made the mistake of downloading too many plugins, and got lost by the wealth of integrated features. 
+As with any tool, the first step is customizing the application to work for you. The first time I downloaded obsidian I made the mistake of downloading too many plugins, and got lost by the wealth of integrated features.
 
 Following those attempts I took a more pragmatic approach to customizing my Obsidian client. That is, only downloading plugins if I need the functionality. Novel idea right?
 
@@ -64,14 +62,14 @@ As for plugins
 
 - [Git for Obsidian](https://github.com/denolehov/obsidian-git)
 	  Let's you automatically back-up your vault to a git repository. This is by far the most useful plugin for me
-  
-  
+
+
 - [Templater](https://github.com/SilentVoid13/Templater)
 	  Create complex templates for different types of notes. Supports variables and other features
-  
-  
+
+
 - [Omnivore](https://omnivore.app/home)
-	  Save any online text for local consumption or for later reference. 
+	  Save any online text for local consumption or for later reference.
 
 
 - [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
@@ -93,12 +91,12 @@ All of the applications, and plugins I've mentioned are free to use and Open-sou
 
 - [Git for Obsidian](https://ko-fi.com/F1F195IQ5)
 	  Developer takes donations
-  
-  
+
+
 - [Templater](https://github.com/sponsors/silentvoid13)
 	  Developer takes donations
-  
-  
+
+
 - [Omnivore](https://opencollective.com/omnivore)
 	 Developer takes donations
 
