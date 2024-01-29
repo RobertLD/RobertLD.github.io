@@ -10,4 +10,22 @@ Thankfully nothing is *really* required that you likely don't already have, but 
 2. [Obsidian Git Plugin](https://github.com/denolehov/obsidian-git)
 3. [GitHub Account](https://github.com) (or other remote git provider)
 
-### Step 1: Getting your vault on t
+### Step 1: Getting your vault on to your cellphone
+I currently own an android device, that is not *rooted* so installing git on the device itself was not an option. Thankfully it was easy enough to plug my phone into my machine and manually copy my Obsidian Vault into my phones storage. Although I'm not 100% sure, iPhones likely have the same capacity.
+
+Once your Obsidian Vault is on your phone there is only one additional step
+
+### Step 2: Configuring Obsidian-Git on your phone
+Given that we can't install git on the mobile device and likely can't configure SSH keys we'll have to rely on two things
+1. Obsidian Git's built in JS-Git client
+2. Personal Key Authentication w/ Github
+The first of which is configured automagically when installing obsidian git and the second is incredibly easy. 
+
+For GitHub:
+1. Login
+2. Navigate to Settings
+3. Navigate to Developer Settings
+4. Navigate to Personal Access Tokens 
+5. Click Generate New
+
+This will serve as your password
