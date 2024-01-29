@@ -4,9 +4,9 @@
 ---
 
 
-$base-font-size:   28px;
-$base-font-weight: 200;
-$background-color: #df1111;
+$base-font-size:   28px !default;
+$base-font-weight: 200 !default;
+$background-color: #df1111 !default;
 
 @import
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
