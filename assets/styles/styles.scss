@@ -1,6 +1,6 @@
 ---
 ---
-
+$base-font-size:   100px;
 @import
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
