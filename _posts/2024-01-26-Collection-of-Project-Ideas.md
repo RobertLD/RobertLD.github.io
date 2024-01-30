@@ -44,10 +44,16 @@ These are projects that are useful to me personally or offer some simple functio
 2. OpenAPI client generator. Parse a swagger document and generate a client for interacting with that specific API.
 3.  Parquet/CSV file combiner and splitter cli tool
 
-### Simulations
+### Pre-commit Hooks
+1. Linting commit messages
+
+## Simulations
 1. Evolution simulation game with simple plants and animals (Golang?)
 2. Market Trading Simulator using Agents with simple Neural Networks existing as Coroutines. They interact real-time with a global market data-structure
 3. Agents that use emails to interact with the world (game over SMTP)
+
+### Pre-commit Hooks
+1. Git commit message linting and spell checking. Make assertions about how commit messages should look
 
 
 ## Exercises in Learning
