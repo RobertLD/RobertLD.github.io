@@ -49,6 +49,9 @@ These are projects that are useful to me personally or offer some simple functio
 2. Market Trading Simulator using Agents with simple Neural Networks existing as Coroutines. They interact real-time with a global market data-structure
 3. Agents that use emails to interact with the world (game over SMTP)
 
+### Pre-commit Hooks
+1. Git commit message linting and spell checking. Make assertions about how commit messages should look
+
 
 ## Exercises in Learning
 ---
