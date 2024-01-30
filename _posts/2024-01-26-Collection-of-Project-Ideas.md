@@ -46,6 +46,7 @@ These are projects that are useful to me personally or offer some simple functio
 
 ### Pre-commit Hooks
 1. Linting commit messages
+2. Linting on argocd app-settings to confirm nothing is funny
 
 ## Simulations
 1. Evolution simulation game with simple plants and animals (Golang?)
