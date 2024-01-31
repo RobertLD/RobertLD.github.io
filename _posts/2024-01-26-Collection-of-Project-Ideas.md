@@ -38,6 +38,7 @@ These are projects that are useful to me personally or offer some simple functio
 
 ### Interesting
 1. Workflow engine that supports job dependencies, retries and priority
+2. RSS Feed reader that runs as a service and saves the text as blobs in a blob storage mechanism (db?)
 
 ### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
@@ -68,6 +69,10 @@ Projects whose purpose is to expand my knowledge on a particular topic or series
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
 2. Anomaly Detection ML model build on top of Loki logs
+
+### Programming Languages
+1. Extending a compiler that doesn't support Tail-Call optimization... by adding tail call optimization.
+2. Create a debugger for a language that currently has terrible tooling.
 
 
 ## Projects suggested to me
