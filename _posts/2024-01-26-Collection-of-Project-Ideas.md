@@ -41,7 +41,8 @@ These are projects that are useful to me personally or offer some simple functio
 2. RSS Feed reader that runs as a service and saves the text as blobs in a blob storage mechanism (db?)
 3. Write a dataframe library similar to polars or pandas but for a language that doesn't have one
 4. Horse Betting (or any other) sports betting with a Machine Learning backend
-5. Trading Model built to trade relatively illiquid markets (OTC stocks, Watches, Wine, etc.) 
+5. Trading Model built to trade relatively illiquid markets (OTC stocks, Watches, Wine, etc.)
+
 ### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
 2. OpenAPI client generator. Parse a swagger document and generate a client for interacting with that specific API.
