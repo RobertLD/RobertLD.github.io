@@ -47,7 +47,7 @@ These are projects that are useful to me personally or offer some simple functio
 
 ### Pre-commit Hooks
 1. Linting commit messages
-2. Linting on argocd app-settings to confirm nothing is funny
+2. Linting on argocd app-settings to confirm nothing is funny. An interesting technology to use could be Perl 6 or Raku.
 
 ## Simulations
 1. Evolution simulation game with simple plants and animals (Golang?)
