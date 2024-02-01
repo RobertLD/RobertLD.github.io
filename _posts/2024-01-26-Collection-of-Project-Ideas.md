@@ -42,6 +42,7 @@ These are projects that are useful to me personally or offer some simple functio
 3. Write a dataframe library similar to polars or pandas but for a language that doesn't have one
 4. Horse Betting (or any other) sports betting with a Machine Learning backend
 5. Trading Model built to trade relatively illiquid markets (OTC stocks, Watches, Wine, etc.)
+6. Pomodoro timer that sends a server-sent event when time is up. Or potentially using websockets?
 
 ### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
