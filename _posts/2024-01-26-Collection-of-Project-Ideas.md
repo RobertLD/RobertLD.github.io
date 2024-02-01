@@ -39,7 +39,8 @@ These are projects that are useful to me personally or offer some simple functio
 ### Interesting
 1. Workflow engine that supports job dependencies, retries and priority
 2. RSS Feed reader that runs as a service and saves the text as blobs in a blob storage mechanism (db?)
-3. Write a dataframe library similar to polars or pandas but f
+3. Write a dataframe library similar to polars or pandas but for a language that doesn't have one
+
 ### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
 2. OpenAPI client generator. Parse a swagger document and generate a client for interacting with that specific API.
