@@ -40,7 +40,8 @@ These are projects that are useful to me personally or offer some simple functio
 1. Workflow engine that supports job dependencies, retries and priority
 2. RSS Feed reader that runs as a service and saves the text as blobs in a blob storage mechanism (db?)
 3. Write a dataframe library similar to polars or pandas but for a language that doesn't have one
-
+4. Horse Betting (or any other) sports betting with a Machine Learning backend
+5. Trading Model built to trade relatively illiquid markets (OTC stocks, Watches, Wine, etc.) 
 ### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
 2. OpenAPI client generator. Parse a swagger document and generate a client for interacting with that specific API.
@@ -70,6 +71,7 @@ Projects whose purpose is to expand my knowledge on a particular topic or series
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
 2. Anomaly Detection ML model build on top of Loki logs
+3. Detecting Illicit substances in images (OpenCV)
 
 ### Programming Languages
 1. Extending a compiler that doesn't support Tail-Call optimization... by adding tail call optimization.
