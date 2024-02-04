@@ -17,7 +17,9 @@ Out of all the ideas, I think these projects have the most potential to make it 
 ### Consumer Applications (Apps, etc.)
 1. Build a mobile app that reminds users if they've taken their pills today or not
 2. Tenet management system for landlords
-3. Simple chore management site for Families, gamified. Created with the Phoenix framework + Elixir
+3. Simple chore management site for families, gamified. Created with the Phoenix framework + Elixir
+4. A simple Phoenix Liveview website that let's you create a poll and send it to your friends
+5. Alternative to Apache NIFI in Elixir taking advantage of it's fault-tolerance
 
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
