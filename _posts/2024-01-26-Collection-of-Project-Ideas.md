@@ -17,6 +17,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 ### Consumer Applications (Apps, etc.)
 1. Build a mobile app that reminds users if they've taken their pills today or not
 2. Tenet management system for landlords
+3. Simple chore management site for Families, gamified. Created with the Phoenix framework + Elixir
 
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
