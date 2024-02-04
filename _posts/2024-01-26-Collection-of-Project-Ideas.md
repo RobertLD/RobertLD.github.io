@@ -38,6 +38,7 @@ These are projects that are useful to me personally or offer some simple functio
 6. VSCode plugin to add Automatic SQL formatting for strings
 7. CLI application to read/parse markdown data and fail a build on grammar mistakes, with configurable proof-reading capabilities. Would be used as a github action for github.io pages/blogs.
 8. Gmail extension that creates a weekly digest from emails you tell it to listen to. Basically  combine all newsletters into one newsletter
+9. Modern Terminal multiplexer, with sane defaults. To replace Tmux
 
 ### Interesting
 1. Workflow engine that supports job dependencies, retries and priority
@@ -47,6 +48,7 @@ These are projects that are useful to me personally or offer some simple functio
 5. Trading Model built to trade relatively illiquid markets (OTC stocks, Watches, Wine, etc.)
 6. Pomodoro timer that sends a server-sent event when time is up. Or potentially using websockets?
 7. A terminal  based Tamagotchi like creature that you maintain through terminal based means. It should interact with the user in some fashion when healthy or unhealthy
+8. A AWS lambda like service where you can upload elixir functions and set them to run on a timer. They will then get executed on the backend according to your time (basically a cron manager.)
 
 ### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
