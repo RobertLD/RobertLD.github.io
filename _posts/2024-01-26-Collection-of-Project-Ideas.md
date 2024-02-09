@@ -18,11 +18,14 @@ Out of all the ideas, I think these projects have the most potential to make it 
 1. Build a mobile app that reminds users if they've taken their pills today or not
 2. Tenet management system for landlords
 3. Simple chore management site for families, gamified. Created with the Phoenix framework + Elixir
-4. A simple Phoenix Liveview website that let's you create a poll and send it to your friends
 5. Alternative to Apache NIFI in Elixir taking advantage of it's fault-tolerance
 6. Animal Breeding software to keep track of animals, genes, expenses, etc.
-7. Gmail (Chrome Extension) to help organize your inbox automatically 
-8. Simple poll maker application 
+7. Resume Screening tool that automatically screens candidates based on search criteria and otherwise.
+	- Integration with various job boards to find applicants before they even apply
+
+### Micro Applications
+ 1. A simple Phoenix Liveview website that let's you create a poll and send it to your friends
+ 2. Gmail (Chrome Extension) to help organize your inbox automatically 
 
 ### Non-software services
 1. Software Development newsletter (very original, I know)
