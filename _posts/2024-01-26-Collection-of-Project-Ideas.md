@@ -25,6 +25,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
+2. NSFW Image generation for a small fee
 
 
 ## Personal Projects
