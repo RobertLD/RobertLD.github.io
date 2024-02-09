@@ -24,6 +24,10 @@ Out of all the ideas, I think these projects have the most potential to make it 
 7. Gmail (Chrome Extension) to help organize your inbox automatically 
 8. Simple poll maker application 
 
+### Non-software services
+1. Software Development newsletter (very original, I know)
+2. Programming course on Cousera or alternatives
+
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
 2. NSFW Image generation for a small fee
