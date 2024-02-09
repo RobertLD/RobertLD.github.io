@@ -22,6 +22,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 5. Alternative to Apache NIFI in Elixir taking advantage of it's fault-tolerance
 6. Animal Breeding software to keep track of animals, genes, expenses, etc.
 7. Gmail (Chrome Extension) to help organize your inbox automatically 
+8. Simple poll maker application 
 
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
