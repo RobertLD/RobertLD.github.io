@@ -26,6 +26,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 ### Micro Applications
  1. A simple Phoenix Liveview website that let's you create a poll and send it to your friends
  2. Gmail (Chrome Extension) to help organize your inbox automatically 
+ 3. Home investment calculator and simulator
 
 ### Non-software services
 1. Software Development newsletter (very original, I know)
