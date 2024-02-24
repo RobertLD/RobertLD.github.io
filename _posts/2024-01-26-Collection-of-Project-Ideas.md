@@ -23,6 +23,9 @@ Out of all the ideas, I think these projects have the most potential to make it 
 7. Resume Screening tool that automatically screens candidates based on search criteria and otherwise.
 	- Integration with various job boards to find applicants before they even apply
 
+### AR/VR Applications
+1. Simple Pomodoro timer for VisionOS.
+
 ### Micro Applications
  1. A simple Phoenix Liveview website that let's you create a poll and send it to your friends
  2. Gmail (Chrome Extension) to help organize your inbox automatically 
