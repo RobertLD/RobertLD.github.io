@@ -9,7 +9,10 @@ I often describe the game Rimworld, as a game you play to tell stories about it 
 
 ### Raw Notes
 - We begin with Robert a colonist embarking on his journey to settle a new colony on a rimworld far out in the galaxy
--  Robert is a 
+-  Robert is an escaped slave from a postage delivery vessel
+- He is very sensitive to the sunlight and prefers darkness; preferably inside a mountain 
+- He crashes out of the postage ship into an unforgiving desert on an un-named rimworld
+- He kidnapes his masters dog to spite him and immediatly slaughters it when landing
 
 
 
