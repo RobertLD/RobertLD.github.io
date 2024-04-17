@@ -23,4 +23,4 @@ I often describe the game Rimworld, as a game you play to tell stories about it 
 
 
 ### Prompt
-I'm going to give you a bullet point point list detailing my exploits in the game Rimworld. I'd like you to transform that list into a cohesive story that I can share with others. It should be well written, funny and capture the essence of the video game Rimworld. You should utilize the lore and backstory of rimworld to piece in missing details and keep the plot consistent.
+I'm going to give you a bullet point point list detailing my exploits in the game Rimworld. I'd like you to transform that list into a cohesive story that I can share with others. It should be well written, funny and capture the essence of the video game Rimworld. You should utilize the lore and backstory of rimworld to piece in missing details and keep the plot consistent. Don't make up things that I didn't say though
