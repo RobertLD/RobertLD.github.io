@@ -8,8 +8,8 @@ I often describe the game Rimworld, as a game you play to tell stories about it 
 
 
 ### Raw Notes
-- We begin with Robert and Josue two colonists embarking on their journey to settle a new colony on a rimworld
-- 
+- We begin with Robert a colonist embarking on his journey to settle a new colony on a rimworld far out in the galaxy
+-  Robert is a 
 
 
 
