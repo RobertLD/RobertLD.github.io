@@ -12,7 +12,10 @@ I often describe the game Rimworld, as a game you play to tell stories about it 
 -  Robert is an escaped slave from a postage delivery vessel
 - He is very sensitive to the sunlight and prefers darkness; preferably inside a mountain 
 - He crashes out of the postage ship into an unforgiving desert on an un-named rimworld
-- He kidnapes his masters dog to spite him and immediatly slaughters it when landing
+- He kidnaps' his masters dog to spite him and immediately slaughters it when landing
+- He lands with some medicine and food taken from the ship
+- He starts digging his home into the surrounding stone
+-  
 
 
 
