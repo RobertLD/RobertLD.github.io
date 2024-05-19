@@ -65,6 +65,7 @@ These are projects that are useful to me personally or offer some simple functio
 6. Pomodoro timer that sends a server-sent event when time is up. Or potentially using websockets?
 7. A terminal  based Tamagotchi like creature that you maintain through terminal based means. It should interact with the user in some fashion when healthy or unhealthy
 8. A AWS lambda like service where you can upload elixir functions and set them to run on a timer. They will then get executed on the backend according to your time (basically a cron manager.)
+9. Database that is good at one thing; clustered indexes on time-series data
 
 ### CLI Applications
 1. CLI application called `td` that takes the input and makes a todo item in the daily obsidian note with the timestamp of when it was made
