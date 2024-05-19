@@ -22,7 +22,8 @@ Out of all the ideas, I think these projects have the most potential to make it 
 6. Animal Breeding software to keep track of animals, genes, expenses, etc.
 7. Resume Screening tool that automatically screens candidates based on search criteria and otherwise.
 	- Integration with various job boards to find applicants before they even apply
-
+8. Dog/Parrot training clicker; one button app
+9. Feed reminder for animals that are irregularly fed
 ### AR/VR Applications
 1. Simple Pomodoro timer for VisionOS.
 
