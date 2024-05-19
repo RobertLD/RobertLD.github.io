@@ -55,6 +55,7 @@ These are projects that are useful to me personally or offer some simple functio
 7. CLI application to read/parse markdown data and fail a build on grammar mistakes, with configurable proof-reading capabilities. Would be used as a github action for github.io pages/blogs.
 8. Gmail extension that creates a weekly digest from emails you tell it to listen to. Basically  combine all newsletters into one newsletter
 9. Modern Terminal multiplexer, with sane defaults. To replace Tmux
+10. Simple command line tool to tell you what versions of OpenGL you support
 
 ### Interesting
 1. Workflow engine that supports job dependencies, retries and priority
