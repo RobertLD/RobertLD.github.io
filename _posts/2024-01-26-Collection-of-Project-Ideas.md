@@ -44,7 +44,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 20. Tinder to sort and organize Photos
 21. Small Cap Investor
 	1. Tool for monitoring and keeping track of small cap stocks specifically
-22. Thinkfuse clone
+	2. Thinkfuse clone
  
 23. Roadtrip Planning Application / Vacation Planner
 24. Simple appointment making application, integrated with calanders
