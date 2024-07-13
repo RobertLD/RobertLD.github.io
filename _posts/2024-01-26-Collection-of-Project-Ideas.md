@@ -64,7 +64,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 	 1. Input hourly wage, convert website text matching $18.00 to the number of hours you'd have to work
  8. VSCode Extension that suggests SEO edits to html
  9. Chrome extension for quick reporting spam/scam emails directly to the FTC
- 10. EZ-Pz QR Code generator
+ 10. EZ-Pz QR Code generator                                                c  
  11. Discord bot that handles raffles and give-aways (in a provably fair way, something with crypto)
  12.  Wish list compiling for weddings / birthdays / etc.
  13. Platform for designing your own subscription boxes
