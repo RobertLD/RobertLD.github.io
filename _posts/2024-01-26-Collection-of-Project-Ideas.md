@@ -32,8 +32,15 @@ Out of all the ideas, I think these projects have the most potential to make it 
 13. Comic Book Inventory Management System
 14. HR Lead management
 15. Embeddable application that lets you take crypto as payment
-16. Simple
-17. Asynchronous Planning Poker Application 
+16. Simple Accounting Software for 1099/sole-propreitors
+17. Shopify Inventory Management
+18. Crypto Portfolio Manager; the current solutions suck
+	1. Measure coins value
+	2. Measure LP positions
+	3. Measure vault positions
+	4. Measure loans etc.
+	5. Measure counter-party risk
+19. Asynchronous Planning Poker Application 
 ### AR/VR Applications
 1. Simple Pomodoro timer for VisionOS.
 
