@@ -30,7 +30,10 @@ Out of all the ideas, I think these projects have the most potential to make it 
 	1. Email to clients, download, convert to any format
 12. Customizable workflow management dashboard
 13. Comic Book Inventory Management System
-14. Asynchronous Planning Poker Application 
+14. HR Lead management
+15. Embeddable application that lets you take crypto as payment
+16. Simple
+17. Asynchronous Planning Poker Application 
 ### AR/VR Applications
 1. Simple Pomodoro timer for VisionOS.
 
