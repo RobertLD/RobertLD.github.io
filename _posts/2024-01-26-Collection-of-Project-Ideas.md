@@ -45,7 +45,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 21. Small Cap Investor
 	1. Tool for monitoring and keeping track of small cap stocks specifically
 22. Thinkfuse clone
-	1. Asynchronous standup platform. At the end of the day, employees will out a what did I accomplish today form, at the beginning of the next day employees fill out a what will I do today form
+ 
 23. Roadtrip Planning Application / Vacation Planner
 24. Simple appointment making application, integrated with calanders
 25. Project Roadmap application
