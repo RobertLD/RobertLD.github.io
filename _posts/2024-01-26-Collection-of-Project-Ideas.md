@@ -33,6 +33,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
  2. Gmail (Chrome Extension) to help organize your inbox automatically 
  3. Home investment calculator and simulator
  4. Send yourself (or someone else) an email in the future
+ 5. Embeddable website chat
 
 ### Non-software services
 1. Software Development newsletter (very original, I know)
