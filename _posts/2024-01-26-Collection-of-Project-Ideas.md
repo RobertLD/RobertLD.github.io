@@ -48,6 +48,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 	1. Asynchronous standup platform. At the end of the day, employees will out a what did I accomplish today form, at the beginning of the next day employees fill out a what will I do today form
 23. Roadtrip Planning Application / Vacation Planner
 24. Simple appointment making application, integrated with calanders
+25. Project Roadmap application
 ### AR/VR Applications
 1. Simple Pomodoro timer for VisionOS.
 
@@ -64,6 +65,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
  9. Chrome extension for quick reporting spam/scam emails directly to the FTC
  10. EZ-Pz QR Code generator
  11. Discord bot that handles raffles and give-aways (in a provably fair way, something with crypto)
+ 12.  Wish list compiling for weddings / birthdays / etc.
 
 ### Non-software services
 1. Software Development newsletter (very original, I know)
