@@ -25,6 +25,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 8. Dog/Parrot training clicker; one button app
 9. Feed reminder for animals that are irregularly fed
 10. Comic Book Inventory Management System
+11. Asynchronous Planning Poker Application 
 ### AR/VR Applications
 1. Simple Pomodoro timer for VisionOS.
 
