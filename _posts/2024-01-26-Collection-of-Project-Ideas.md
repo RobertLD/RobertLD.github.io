@@ -59,6 +59,8 @@ Out of all the ideas, I think these projects have the most potential to make it 
  7. Real Cost Clone. 
 	 1. Input hourly wage, convert website text matching $18.00 to the number of hours you'd have to work
  8. VSCode Extension that suggests SEO edits to html
+ 9. Chrome extension for quick reporting spam/scam emails directly to the FTC
+ 10. EZ-Pz QR Code generator
 
 ### Non-software services
 1. Software Development newsletter (very original, I know)
