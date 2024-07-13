@@ -71,7 +71,6 @@ Out of all the ideas, I think these projects have the most potential to make it 
 	 1. Companies can list their products as available to be used in subscription boxes
 	 2. Subscription boxes can aggregate those companies products into it's subscription box
 14. Take crypto donations platform. Take crypto donations, get paid in dollars
-15. 
 
 
 ### Non-software services
