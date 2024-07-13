@@ -41,6 +41,11 @@ Out of all the ideas, I think these projects have the most potential to make it 
 	4. Measure loans etc.
 	5. Measure counter-party risk
 19. Asynchronous Planning Poker Application 
+20. Tinder to sort and organize Photos
+21. Small Cap Investor
+	1. Tool for monitoring and keeping track of small cap stocks specifically
+22. Thinkfuse clone
+	1. Asynchronous standup platform. At the end of the day, employees will out a what did I accomplish today form, at the beginning of the next day employees fill out a what will I do today form
 ### AR/VR Applications
 1. Simple Pomodoro timer for VisionOS.
 
@@ -51,7 +56,9 @@ Out of all the ideas, I think these projects have the most potential to make it 
  4. Send yourself (or someone else) an email in the future
  5. Embeddable website chat
  6. AI Enabled email writer/client for writing drafts. I imagine this as a chrome extension
- 7. VSCode Extension that suggests SEO edits to html
+ 7. Real Cost Clone. 
+	 1. Input hourly wage, convert website text matching $18.00 to the number of hours you'd have to work
+ 8. VSCode Extension that suggests SEO edits to html
 
 ### Non-software services
 1. Software Development newsletter (very original, I know)
