@@ -49,6 +49,7 @@ Out of all the ideas, I think these projects have the most potential to make it 
 23. Roadtrip Planning Application / Vacation Planner
 24. Simple appointment making application, integrated with calanders
 25. Project Roadmap application
+26. BigCommerce Plugin
 ### AR/VR Applications
 1. Simple Pomodoro timer for VisionOS.
 
@@ -66,10 +67,17 @@ Out of all the ideas, I think these projects have the most potential to make it 
  10. EZ-Pz QR Code generator
  11. Discord bot that handles raffles and give-aways (in a provably fair way, something with crypto)
  12.  Wish list compiling for weddings / birthdays / etc.
+ 13. Platform for designing your own subscription boxes
+	 1. Companies can list their products as available to be used in subscription boxes
+	 2. Subscription boxes can aggregate those companies products into it's subscription box
+14. Take crypto donations platform. Take crypto donations, get paid in dollars
+15. 
+
 
 ### Non-software services
 1. Software Development newsletter (very original, I know)
 2. Programming course on Cousera or alternatives
+3. Subscription Box Service of some sort
 
 ### Machine Learning
 1. LLM trained specifically on the AST representation of a specific programming language.
