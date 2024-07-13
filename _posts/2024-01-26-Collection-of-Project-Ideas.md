@@ -23,9 +23,14 @@ Out of all the ideas, I think these projects have the most potential to make it 
 7. Resume Screening tool that automatically screens candidates based on search criteria and otherwise.
 	- Integration with various job boards to find applicants before they even apply
 8. Dog/Parrot training clicker; one button app
-9. Feed reminder for animals that are irregularly fed
-10. Comic Book Inventory Management System
-11. Asynchronous Planning Poker Application 
+9. Punkt.ch clone
+	1. Application to gamify and promote daily journaling 
+10. Feed reminder for animals that are irregularly fed
+11. Customizable Invoice generator
+	1. Email to clients, download, convert to any format
+12. Customizable workflow management dashboard
+13. Comic Book Inventory Management System
+14. Asynchronous Planning Poker Application 
 ### AR/VR Applications
 1. Simple Pomodoro timer for VisionOS.
 
