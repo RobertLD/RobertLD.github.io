@@ -40,6 +40,8 @@ Out of all the ideas, I think these projects have the most potential to make it 
  3. Home investment calculator and simulator
  4. Send yourself (or someone else) an email in the future
  5. Embeddable website chat
+ 6. AI Enabled email writer/client for writing drafts. I imagine this as a chrome extension
+ 7. VSCode Extension that suggests SEO edits to html
 
 ### Non-software services
 1. Software Development newsletter (very original, I know)
