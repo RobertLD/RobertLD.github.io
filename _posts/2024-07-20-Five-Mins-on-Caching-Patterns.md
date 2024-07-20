@@ -1,4 +1,5 @@
 
+## Exploring Caching Methodologies
 There are projects that I will be working on that will require some thought into different caching methodologies, of which I know very little. This post is just going to serve as my general exploration of the caching landscape, and the design patterns that are popular in their implementation.
 
 
@@ -20,4 +21,4 @@ The read through cache sits in-front of the database and processes all read comm
 1. Read heavy clients will find this performant
 
 ### Write-back
-A write back cache appears to be an overly fancy way of describing a batch. The client constantly writes data to the cache, and it is periodically flushed into the database in a single batch.
+A write back cache appears to be an overly fancy way of describing a batch. The client constantly writes data to the cache, and it is periodically flushed into the database in a single batch.x
