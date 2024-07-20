@@ -10,7 +10,14 @@ Apparently the most common of caching methodologies. Data retrieval looks as fol
 The benefits of this method are clear. It's straight forward to implement and immediately increases performance of repeated requests.
 
 ### Write Through
-The write-through pattern is a bit more proactive in keeping the cache up to date.  As soon as the database is updated, the cache is also updated before any requests for the data have actually been made. I have a hard time seeing much benefit for this approach; but according to the internet
+The write-through pattern is a bit more proactive in keeping the cache up to date.  New data is first written to the cache before it is immediately flushed to the DB. This is before any requests for the data have actually been made. I have a hard time seeing much benefit for this approach; but according to the internet.
 1. It greatly increases the chance of cache hits (duh)
 2. Increases database performance by lowering query  volume
 I'll have to explore this pattern more to see what makes it effective.
+
+### Read Through
+The read through cache sits in-front of the database and processes all read commands. If the data  does not exist in the cache, it then fetches it from the database caching it for further use.
+1. Read heavy clients will find this performant
+
+### Write-back
+A write back cache appears to be an overly fancy way of describing a batch. The client constantly writes data to the cache, and it is periodically flushed into the database in a single batch.
