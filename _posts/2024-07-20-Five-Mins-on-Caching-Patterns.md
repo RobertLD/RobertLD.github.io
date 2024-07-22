@@ -8,7 +8,7 @@ Apparently the most common of caching methodologies. Data retrieval looks as fol
 1. When the application requires data, it asks the cache first
 2. If the cache has the data, it is returned and the process ends
 3. Otherwise, the database is queries, the data is then cached for future use and returned
-The benefits of this method are clear. It's straight forward to implement and immediately increases performance of repeated requests.
+The benefits of this meithod are clear. It's straight forward to implement and immediately increases performance of repeated requests.
 
 ### Write Through
 The write-through pattern is a bit more proactive in keeping the cache up to date.  New data is first written to the cache before it is immediately flushed to the DB. This is before any requests for the data have actually been made. I have a hard time seeing much benefit for this approach; but according to the internet.
